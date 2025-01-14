@@ -37,3 +37,13 @@
 *.pdb
 
 
+/Pix/Pix/.vs/X
+/Pix/Pix/Pix/Debug
+/Pix/Pix/Pix/Release
+/Pix/Pix/Pix/x64
+/Pix/Pix/X/Debug
+/Pix/Pix/X/External/DirectXTK/Audio/Bin/Desktop_2019/Win32
+/Pix/Pix/X/External/DirectXTK/Audio/Bin/Desktop_2019/x64
+/Pix/Pix/X/External/DirectXTK/Bin/Desktop_2019
+/Pix/Pix/X/External/FW1FontWrapper/x64/Debug
+/Pix/Pix/X/External/FW1FontWrapper/x64/Release
