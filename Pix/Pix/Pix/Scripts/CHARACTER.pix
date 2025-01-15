@@ -1,0 +1,139 @@
+SetResolution(20, 20, 50, true)
+
+// Antenna
+SetColor(255, 0, 0) // Red
+
+DrawPixel(8, 0)
+DrawPixel(11, 0)
+SetColor(255, 255, 0) // Yellow tip
+DrawPixel(9, 1)
+DrawPixel(10, 1)
+
+// Head
+SetColor(255, 255, 0) // Yellow
+DrawPixel(8, 1)
+DrawPixel(6, 1)
+DrawPixel(6, 2)
+DrawPixel(6, 3)
+DrawPixel(7, 1)
+DrawPixel(7, 2)
+DrawPixel(7, 3)
+DrawPixel(8, 2)
+DrawPixel(9, 2)
+DrawPixel(10, 2)
+DrawPixel(11, 1)
+DrawPixel(11, 2)
+DrawPixel(8, 3)
+DrawPixel(9, 3)
+DrawPixel(10, 3)
+DrawPixel(11, 3)
+DrawPixel(12, 1)
+DrawPixel(12, 2)
+DrawPixel(12, 3)
+DrawPixel(13, 1)
+DrawPixel(13, 2)
+DrawPixel(13, 3)
+
+// Eyes
+SetColor(0, 0, 255) // Blue
+DrawPixel(7, 2)
+DrawPixel(12, 2)
+
+SetColor(255, 0, 0)
+
+DrawPixel(11, 4)
+DrawPixel(8, 4)
+
+SetColor(255, 255, 255)
+DrawPixel(9, 4)
+DrawPixel(10, 4
+
+
+SetColor(255, 255, 0) // Yellow
+DrawPixel(8, 5)
+DrawPixel(9, 5)
+DrawPixel(10, 5)
+DrawPixel(11, 5)
+DrawPixel(12, 5)
+DrawPixel(13, 5)
+DrawPixel(12, 6)
+DrawPixel(13, 6)
+DrawPixel(13, 7)
+DrawPixel(13, 8)
+DrawPixel(12, 7)
+DrawPixel(12, 8)
+DrawPixel(11, 7)
+DrawPixel(11, 8)
+DrawPixel(10, 7)
+DrawPixel(10, 8)
+DrawPixel(9, 7)
+DrawPixel(9, 8)
+
+DrawPixel(8, 8)
+DrawPixel(6, 7)
+DrawPixel(6, 8)
+DrawPixel(7, 7)
+DrawPixel(7, 8)
+DrawPixel(7, 5)
+DrawPixel(7, 6)
+DrawPixel(6, 6)
+DrawPixel(6, 5)
+
+SetColor(255, 0, 0) // Red
+DrawPixel(8, 7)
+DrawPixel(9, 7)
+DrawPixel(10, 7)
+DrawPixel(11, 7)
+
+
+
+DrawPixel(8, 6)
+DrawPixel(9, 6)
+DrawPixel(10, 6)
+DrawPixel(11, 6)
+
+SetColor(0, 0, 255) // Blue
+DrawPixel(14, 5)
+DrawPixel(15, 6)
+DrawPixel(5, 5)
+DrawPixel(4, 6)
+DrawPixel(7, 9)
+DrawPixel(7, 10)
+DrawPixel(7, 11)
+DrawPixel(8, 9)
+DrawPixel(8, 10)
+DrawPixel(8, 11)
+DrawPixel(11, 9)
+DrawPixel(11, 10)
+DrawPixel(11, 11)
+DrawPixel(12, 9)
+DrawPixel(12, 10)
+DrawPixel(12, 11)
+
+
+
+
+
+SetColor(255, 0, 0) // Red
+DrawPixel(3, 7)
+DrawPixel(16, 7)
+DrawPixel(6,12)
+DrawPixel(7,12)
+DrawPixel(8,12)
+DrawPixel(11,12)
+DrawPixel(12,12)
+DrawPixel(13,12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
