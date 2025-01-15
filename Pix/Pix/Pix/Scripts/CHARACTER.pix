@@ -1,16 +1,13 @@
 SetResolution(20, 20, 50, true)
 
-// Antenna
-SetColor(255, 0, 0) // Red
-
+SetColor(255, 0, 0)
 DrawPixel(8, 0)
 DrawPixel(11, 0)
-SetColor(255, 255, 0) // Yellow tip
+SetColor(255, 255, 0)
 DrawPixel(9, 1)
 DrawPixel(10, 1)
 
-// Head
-SetColor(255, 255, 0) // Yellow
+SetColor(255, 255, 0)
 DrawPixel(8, 1)
 DrawPixel(6, 1)
 DrawPixel(6, 2)
@@ -34,22 +31,19 @@ DrawPixel(13, 1)
 DrawPixel(13, 2)
 DrawPixel(13, 3)
 
-// Eyes
-SetColor(0, 0, 255) // Blue
+SetColor(0, 0, 255)
 DrawPixel(7, 2)
 DrawPixel(12, 2)
 
 SetColor(255, 0, 0)
-
 DrawPixel(11, 4)
 DrawPixel(8, 4)
 
 SetColor(255, 255, 255)
 DrawPixel(9, 4)
-DrawPixel(10, 4
+DrawPixel(10, 4)
 
-
-SetColor(255, 255, 0) // Yellow
+SetColor(255, 255, 0)
 DrawPixel(8, 5)
 DrawPixel(9, 5)
 DrawPixel(10, 5)
@@ -68,7 +62,6 @@ DrawPixel(10, 7)
 DrawPixel(10, 8)
 DrawPixel(9, 7)
 DrawPixel(9, 8)
-
 DrawPixel(8, 8)
 DrawPixel(6, 7)
 DrawPixel(6, 8)
@@ -79,20 +72,17 @@ DrawPixel(7, 6)
 DrawPixel(6, 6)
 DrawPixel(6, 5)
 
-SetColor(255, 0, 0) // Red
+SetColor(255, 0, 0)
 DrawPixel(8, 7)
 DrawPixel(9, 7)
 DrawPixel(10, 7)
 DrawPixel(11, 7)
-
-
-
 DrawPixel(8, 6)
 DrawPixel(9, 6)
 DrawPixel(10, 6)
 DrawPixel(11, 6)
 
-SetColor(0, 0, 255) // Blue
+SetColor(0, 0, 255)
 DrawPixel(14, 5)
 DrawPixel(15, 6)
 DrawPixel(5, 5)
@@ -110,30 +100,12 @@ DrawPixel(12, 9)
 DrawPixel(12, 10)
 DrawPixel(12, 11)
 
-
-
-
-
-SetColor(255, 0, 0) // Red
+SetColor(255, 0, 0)
 DrawPixel(3, 7)
 DrawPixel(16, 7)
-DrawPixel(6,12)
-DrawPixel(7,12)
-DrawPixel(8,12)
-DrawPixel(11,12)
-DrawPixel(12,12)
-DrawPixel(13,12)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+DrawPixel(6, 12)
+DrawPixel(7, 12)
+DrawPixel(8, 12)
+DrawPixel(11, 12)
+DrawPixel(12, 12)
+DrawPixel(13, 12)
